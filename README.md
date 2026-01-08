@@ -82,3 +82,13 @@ JSON is ideal for machines and APIs.
 
 Knowing when and how to convert between them helps prevent subtle bugs
 in backend, DevOps, and automation workflows.
+
+
+## Further Reading
+
+- YAML vs JSON in APIs & CI pipelines  
+  https://app.daily.dev/posts/yaml-vs-json-in-apis-ci-pipelines-where-conversions-break-most-often-phjexl3gu
+
+For testing conversions:
+https://jsonviewertool.com/yaml-to-json
+
