@@ -92,3 +92,7 @@ in backend, DevOps, and automation workflows.
 For testing conversions:
 https://jsonviewertool.com/yaml-to-json
 
+### Community discussion
+
+- GitHub discussion on YAML → JSON pitfalls in CI pipelines  
+  https://github.com/coderaviverma/json-viewer-tools/discussions/4
